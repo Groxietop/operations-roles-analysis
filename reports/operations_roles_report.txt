@@ -1,0 +1,110 @@
+OPERATIONS ROLES ANALYSIS REPORT
+Sources: BLS OEWS May 2025 · BLS Employment Projections 2024–34 · O*NET 30.2 (February 2026)
+======================================================================
+
+======================================================================
+CATEGORY: Claims
+======================================================================
+
+ROLES ANALYZED
+  Claims Adjusters, Examiners, and Investigators, Insurance Underwriters, Fraud Examiners, Investigators and Analysts, Insurance Claims and Policy Processing Clerks
+
+KEY STATISTICS  (Sources: BLS OEWS May 2025 · BLS Projections 2024–34)
+  Total Employment    :    776,040 workers
+  Median Annual Wage  :     79,550 USD
+  Wage Range (P10–P90): $48,655 – $131,100
+  10-Year Job Growth  : -2.1% (2024–2034)
+  Annual Job Openings :         60
+
+AUTOMATION RISK  (Source: O*NET 30.2 Database, February 2026)
+  Score: 0.70 / 1.00  →  HIGH
+  Top automatable task signals : Degree of Automation (WC), Repeating Same Tasks (WC), Processing Info (WA)
+  Top protective task signals  : Thinking Creatively (WA), Service Orientation (SK), Persuasion (SK)
+
+MARKET TREND
+  Employment outlook is stagnant at -2.1%.
+  Annual openings of 60 are mostly replacement demand.
+
+DIAGNOSIS
+  Claims sits in the most vulnerable quadrant: high automation exposure combined with a stagnant employment outlook. The dominant task profile — degree of automation (wc) and repeating same tasks (wc) — is well within the current capability of AI-assisted workflows and RPA tools. Structural headcount reduction is already reflected in the BLS projections and is likely to accelerate as AI tooling matures. Roles in this category should be prioritised for reskilling or transition planning.
+
+
+======================================================================
+CATEGORY: Customer Service
+======================================================================
+
+ROLES ANALYZED
+  Customer Service Representatives, Order Clerks, Receptionists and Information Clerks
+
+KEY STATISTICS  (Sources: BLS OEWS May 2025 · BLS Projections 2024–34)
+  Total Employment    :  3,581,130 workers
+  Median Annual Wage  :     44,770 USD
+  Wage Range (P10–P90): $31,750 – $63,530
+  10-Year Job Growth  : -7.6% (2024–2034)
+  Annual Job Openings :        478
+
+AUTOMATION RISK  (Source: O*NET 30.2 Database, February 2026)
+  Score: 0.62 / 1.00  →  MODERATE-HIGH
+  Top automatable task signals : Admin Activities (WA), Repeating Same Tasks (WC), Processing Info (WA)
+  Top protective task signals  : Negotiation (SK), Originality (AB), Thinking Creatively (WA)
+
+MARKET TREND
+  Employment outlook is declining at -7.6%.
+  Annual openings of 478 are mostly replacement demand.
+
+DIAGNOSIS
+  Customer Service sits in the most vulnerable quadrant: high automation exposure combined with a declining employment outlook. The dominant task profile — admin activities (wa) and repeating same tasks (wc) — is well within the current capability of AI-assisted workflows and RPA tools. Structural headcount reduction is already reflected in the BLS projections and is likely to accelerate as AI tooling matures. Roles in this category should be prioritised for reskilling or transition planning.
+
+
+======================================================================
+CATEGORY: Marketing & Comms
+======================================================================
+
+ROLES ANALYZED
+  Advertising and Promotions Managers, Marketing Managers, Public Relations Managers, Market Research Analysts and Marketing Specialists, Search Marketing Strategists, Public Relations Specialists, Media and Communication Workers, All Other, Advertising Sales Agents
+
+KEY STATISTICS  (Sources: BLS OEWS May 2025 · BLS Projections 2024–34)
+  Total Employment    :  2,685,390 workers
+  Median Annual Wage  :     78,760 USD
+  Wage Range (P10–P90): $43,750 – $155,480
+  10-Year Job Growth  : +3.0% (2024–2034)
+  Annual Job Openings :        257
+
+AUTOMATION RISK  (Source: O*NET 30.2 Database, February 2026)
+  Score: 0.38 / 1.00  →  MODERATE
+  Top automatable task signals : Social Perceptiveness (SK), Admin Activities (WA), Degree of Automation (WC)
+  Top protective task signals  : Caring for Others (WA), Service Orientation (SK), Negotiation (SK)
+
+MARKET TREND
+  Employment outlook is growing at +3.0%.
+  Annual openings of 257 are a mix of growth and replacement demand.
+
+DIAGNOSIS
+  Marketing & Comms shows a relatively resilient profile. Moderate automation exposure is offset by meaningful protective signals — particularly caring for others (wa) — which are harder to fully automate. The growing employment outlook reinforces that demand remains healthy. Investment in upskilling toward strategic and analytical capabilities would further insulate this category.
+
+
+======================================================================
+CATEGORY: Physical Damage
+======================================================================
+
+ROLES ANALYZED
+  Insurance Appraisers, Auto Damage, Appraisers of Personal and Business Property, Appraisers and Assessors of Real Estate
+
+KEY STATISTICS  (Sources: BLS OEWS May 2025 · BLS Projections 2024–34)
+  Total Employment    :     11,560 workers
+  Median Annual Wage  :     78,240 USD
+  Wage Range (P10–P90): $58,360 – $101,590
+  10-Year Job Growth  : -8.2% (2024–2034)
+  Annual Job Openings :          0
+
+AUTOMATION RISK  (Source: O*NET 30.2 Database, February 2026)
+  Score: 0.69 / 1.00  →  HIGH
+  Top automatable task signals : Documenting Info (WA), Processing Info (WA), Degree of Automation (WC)
+  Top protective task signals  : Service Orientation (SK), Originality (AB), Fluency of Ideas (AB)
+
+MARKET TREND
+  Employment outlook is rapidly declining at -8.2%.
+  Annual openings of 0 are mostly replacement demand.
+
+DIAGNOSIS
+  Physical Damage sits in the most vulnerable quadrant: high automation exposure combined with a rapidly declining employment outlook. The dominant task profile — documenting info (wa) and processing info (wa) — is well within the current capability of AI-assisted workflows and RPA tools. Structural headcount reduction is already reflected in the BLS projections and is likely to accelerate as AI tooling matures. Roles in this category should be prioritised for reskilling or transition planning.
